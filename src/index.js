@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import {createStore} from 'redux';
 import {provider} from 'react-redux';
-import manageUsers from './reducers/manageUsers'
+import manageUsers from './reducers/manageUsers';
 
 
 // add imports and code
